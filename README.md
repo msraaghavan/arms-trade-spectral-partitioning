@@ -1,12 +1,6 @@
 # Analyzing Global Arms Trade using Spectral Partitioning
 
-**23CSE451 Graph Mining – Case Study**
-Amrita School of Computing, Amritapuri · CSE-D · Semester VII, 2026–27
-
-| Name | Roll number |
-|---|---|
-| Raaghavan M S | AM.SC.U4CSE23330 |
-| V Sriman Vashishta | AM.SC.U4CSE23368 |
+By Raaghavan M S and V Sriman Vashishta
 
 We turned the SIPRI arms-transfer data (1950–2025) into 67 yearly graphs, where countries are nodes and weapon deals are weighted edges. We then used spectral partitioning to split each graph into groups. The data picks two groups in every year, and these match the real Cold War sides. To check that the split is real, we compared it with randomly shuffled networks.
 
