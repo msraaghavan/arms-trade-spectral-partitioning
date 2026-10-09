@@ -1,0 +1,17 @@
+{
+ "fig02_real": {
+  "n": 155,
+  "links": 901,
+  "cross_pct": 18.1
+ },
+ "fig02_shuffled": {
+  "n": 155,
+  "links": 901,
+  "cross_pct": 33.6
+ },
+ "fig10": {
+  "n_full": 155,
+  "nodes": 24,
+  "edges": 56
+ }
+}
